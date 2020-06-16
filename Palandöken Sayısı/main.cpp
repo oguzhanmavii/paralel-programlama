@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 
 bool PalandokenMi(unsigned long long number){
 	unsigned long long tmpNumber = number;
-	int sayi, benzersizBasamakSayisi = 0;
+	int sayi;
 	vector<int> basamaklar;
 	
 	do{
